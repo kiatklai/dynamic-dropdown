@@ -1,5 +1,4 @@
-// import './App.css';
-
+import './App.css';
 import Dropdown from "./components/Dropdown";
 import Food from "./components/Food";
 
