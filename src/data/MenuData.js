@@ -57,7 +57,7 @@ const MenuData = [
     {
         menu : "飲料",
         foodName : "ลาเต้",
-        image_url:"https://cdn.pixabay.com/photo/2015/10/12/14/54/coffee-983955_960_720.jpg"
+        image_url:"https://media.istockphoto.com/id/505168330/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E3%82%AB%E3%83%83%E3%83%97%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A9%E3%83%86%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E3%81%A8%E3%82%B7%E3%83%8A%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF.webp?b=1&s=612x612&w=0&k=20&c=-ViEpGBViLSeYUiD7lCxBeifEcaGFR9f686AZCbSAxo="
     }
 ]
 
